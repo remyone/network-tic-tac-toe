@@ -7,7 +7,7 @@
 ## How to Run  
 **Build server and client and run it**:  
    ```bash
-   gcc server.c -o server && gcc client.c -o client
+   gcc Server/main.c -o server && gcc Client/client.c -o client
    ./server
    ./client
    ```
