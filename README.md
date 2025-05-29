@@ -3,7 +3,7 @@
 
 ## Features  
 - 🖥️ **Server-client architecture**
-- 🎮 **Modes**: Player vs Player
+- 🎮 **Modes**: Player vs Player (on localhost)
 ## How to Run  
 **Build server and client and run it**:  
    ```bash
