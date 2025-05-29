@@ -1,2 +1,6 @@
-# network-tic-tac-toe
-network tic-tac-toe on windows sockets
+# 🌐 Network Tic-Tac-Toe  
+**Multiplayer game via TCP sockets in C**  
+
+## Features  
+- 🖥️ **Server-client architecture**
+- 🎮 **Modes**: Player vs Player
